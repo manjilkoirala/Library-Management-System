@@ -1,8 +1,3 @@
-Here's a `README.md` file for your **Library Management System** project:  
-
----  
-
-```markdown
 # 📚 Library Management System  
 
 A full-stack **Library Management System** with an **Admin Dashboard**,
@@ -78,4 +73,4 @@ This project is open-source and available under the **MIT License**.
 ---
 
 Made with ❤️ using Next.js, PostgreSQL, and Redis. 🚀  
-```
+
