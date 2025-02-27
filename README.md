@@ -5,7 +5,9 @@ Here's a `README.md` file for your **Library Management System** project:
 ```markdown
 # 📚 Library Management System  
 
-A full-stack **Library Management System** with an **Admin Dashboard**, built using modern technologies for efficient book management, borrowing, and user administration.
+A full-stack **Library Management System** with an **Admin Dashboard**,
+built using modern technologies for efficient book management, borrowing,
+and user administration.
 
 ## 🚀 Tech Stack  
 - **Frontend:** Next.js  
